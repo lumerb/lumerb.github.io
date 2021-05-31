@@ -1,4 +1,5 @@
 {
   "main.js": "render-page.js",
-  "render-page.js.map": "render-page.js.map"
+  "render-page.js.map": "render-page.js.map",
+  "static/multigo.jpg": "static/multigo-5a3f285740a8cfdae2e4814f84c4a865.jpg"
 }
